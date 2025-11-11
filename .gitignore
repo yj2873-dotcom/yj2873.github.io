@@ -9,3 +9,7 @@ lab*.ipynb
 # virtual environments
 .venv/
 myenv/
+
+project_1/
+
+Electric_Consumption_And_Cost_(2010_-_May_2025)_20251110.csv
