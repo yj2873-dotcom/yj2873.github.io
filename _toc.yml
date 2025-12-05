@@ -4,10 +4,10 @@ chapters:
   - file: lecture_16_example
   - file: project_1/project_1
   - file: project_2/project_2
-  - file: CIC REVIEW/index
+  - title: CIC REVIEW
     sections:
       - file: CIC REVIEW/sampletest
       - file: CIC REVIEW/复习1：基础+Merge
       - file: CIC REVIEW/复习2：可视化+API
       - file: CIC REVIEW/复习3：概念
-  - file: project_3/project_3
+  - file: Project_3/project_3
