@@ -1,13 +1,17 @@
 format: jb-book
 root: index
-chapters:
-  - file: lecture_16_example
-  - file: project_1/project_1
-  - file: project_2/project_2
-  - title: CIC REVIEW
-    sections:
+
+parts:
+  - caption: Main Content
+    chapters:
+      - file: lecture_16_example
+      - file: project_1/project_1
+      - file: project_2/project_2
+      - file: Project_3/project_3
+
+  - caption: CIC REVIEW
+    chapters:
       - file: CIC REVIEW/sampletest
       - file: CIC REVIEW/复习1：基础+Merge
       - file: CIC REVIEW/复习2：可视化+API
       - file: CIC REVIEW/复习3：概念
-  - file: Project_3/project_3
